@@ -140,12 +140,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="0002-add-two-numbers.cpp" />
+    <ClCompile Include="0011-container-with-most-water.cpp" />
+    <ClCompile Include="0015-3sum.cpp" />
     <ClCompile Include="0019-remove-nth-node-from-end-of-list.cpp" />
     <ClCompile Include="0021-merge-two-sorted-lists.cpp" />
+    <ClCompile Include="0023-merge-k-sorted-lists.cpp" />
+    <ClCompile Include="0025-reverse-nodes-in-k-group.cpp" />
+    <ClCompile Include="0042-trapping-rain-water.cpp" />
+    <ClCompile Include="0125-valid-palindrome.cpp" />
     <ClCompile Include="0138--list-with-random-pointer.cpp" />
     <ClCompile Include="0141-linked-list-cycle-detection.cpp" />
     <ClCompile Include="0143-reorder-list.cpp" />
     <ClCompile Include="0146-lru-cache.cpp" />
+    <ClCompile Include="0167-two-sum-ii-input-array-is-sorted.cpp" />
     <ClCompile Include="0206-reverse-linked-list.cpp" />
     <ClCompile Include="0287-find-the-duplicate-number.cpp" />
   </ItemGroup>

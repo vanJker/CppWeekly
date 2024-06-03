@@ -42,5 +42,26 @@
     <ClCompile Include="0146-lru-cache.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="0023-merge-k-sorted-lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0025-reverse-nodes-in-k-group.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0125-valid-palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0167-two-sum-ii-input-array-is-sorted.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0015-3sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0011-container-with-most-water.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0042-trapping-rain-water.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
