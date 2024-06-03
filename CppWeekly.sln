@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppWeekly", "CppWeekly\CppWeekly.vcxproj", "{867A97A8-9B8C-4026-938F-2AB27D81C815}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C40CEB5F-5BEC-4905-812F-0CFC2424B0F9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode", "LeetCode\LeetCode.vcxproj", "{5CAA3A6F-AABF-4748-A068-091E7438D0E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +28,14 @@ Global
 		{867A97A8-9B8C-4026-938F-2AB27D81C815}.Release|x64.Build.0 = Release|x64
 		{867A97A8-9B8C-4026-938F-2AB27D81C815}.Release|x86.ActiveCfg = Release|Win32
 		{867A97A8-9B8C-4026-938F-2AB27D81C815}.Release|x86.Build.0 = Release|Win32
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Debug|x64.ActiveCfg = Debug|x64
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Debug|x64.Build.0 = Debug|x64
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Debug|x86.Build.0 = Debug|Win32
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Release|x64.ActiveCfg = Release|x64
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Release|x64.Build.0 = Release|x64
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Release|x86.ActiveCfg = Release|Win32
+		{5CAA3A6F-AABF-4748-A068-091E7438D0E9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
